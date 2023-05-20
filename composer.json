@@ -1,0 +1,12 @@
+{
+    "name": "webwirkung/shopware-starter",
+    "description": "Webwirkung Shopware 6 starter",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Webwirkung GmbH",
+            "homepage": "https://webwirkung.ch",
+            "role": "Manufacturer"
+        }
+    ]
+}
